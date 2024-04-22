@@ -1,1 +1,3 @@
 # PROJECT-MANAGEMENT-ANALYSIS
+
+![App Screenshot](https://github.com/Samarth1410/PROJECT-MANAGEMENT-ANALYSIS/blob/main/PROJECT%20MANAGEMENT_page-0001.jpg)
